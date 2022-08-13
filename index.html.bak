@@ -220,61 +220,6 @@
             </div>
         </section>
         <!-- END WHAT WE DO -->
-
-        <!-- COUNTERS -->
-        <section class="text-center background-image p-t-200 p-b-100" style="background-image: url(homepages/business/images/parallax/2.jpg); background-position:bottom left;">
-            <div class="container">
-                <div class="row">
-                    <div class="heading-text heading-section m-b-200">
-                        <h2>GROWTH YOUR BUSINESS!</h2>
-                        <span class="lead">Beautiful nature, and rare feathers!. amam ipsum dolor sit amet.</span>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3">
-
-                        <div class="text-center">
-                            <div class="icon"><i class="fa fa-3x fa-code"></i></div>
-                            <div class="counter"> <span data-speed="3000" data-refresh-interval="50" data-to="12416" data-from="600" data-seperator="true"></span> </div>
-                            <div class="seperator seperator-small"></div>
-                            <p>LINES OF CODE</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-
-                        <div class="text-center">
-                            <div class="icon"><i class="fa fa-3x fa-coffee"></i></div>
-                            <div class="counter"> <span data-speed="4500" data-refresh-interval="23" data-to="365" data-from="100" data-seperator="true"></span> </div>
-                            <div class="seperator seperator-small"></div>
-                            <p>CUPS OF COFFEE</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-
-                        <div class="text-center">
-                            <div class="icon"><i class="fa fa-3x fa-rocket"></i></div>
-                            <div class="counter"> <span data-speed="3000" data-refresh-interval="12" data-to="114" data-from="50" data-seperator="true"></span> </div>
-                            <div class="seperator seperator-small"></div>
-                            <p>FINISHED PROJECTS</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-
-                        <div class="text-center">
-                            <div class="icon"><i class="fa fa-3x fa-smile-o"></i></div>
-                            <div class="counter"> <span data-speed="4550" data-refresh-interval="50" data-to="14825" data-from="48" data-seperator="true"></span> </div>
-                            <div class="seperator seperator-small"></div>
-                            <p>SATISFIED CLIENTS</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- end: COUNTERS -->
-
         <!-- WHY CHOOSE US -->
         <section>
             <div class="container">
