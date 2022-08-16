@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="INSPIRO" />
-    <meta name="description" content="Themeforest Template Polo, html template">
+    <meta name="description" content="RLS II CONSULTING">
     <link rel="icon" type="image/png" href="images/logos/logo3.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Document title -->
@@ -54,13 +54,14 @@
                 <div class="container">
                     <!--Logo-->
 					
+
+<img src="images/logos/Logo3.png" style="float:left;width:202px;height:80px;margin-left: -60px"></img>
+                    <!--End: Logo-->
                     <div id="logo"><a href="index.html">
-					<span>RLS II Consulting </span>
+					<span style="float:right;margin-left: 40px; margin-top: -10px"><font size="+2">RLS II Consulting</font></span>
                            					 
 
 </a> </div>
-                    <!--End: Logo-->
-
                     <!-- Search -->
                    <!-- <div id="search"><a id="btn-search-close" class="btn-search-close" aria-label="Close search form"><i class="icon-x"></i></a>
                         <form class="search-form" action="search-results-page.html" method="get">
@@ -82,7 +83,7 @@
                         <div class="container">
                             <nav>
                                 <ul>
-								<li><img src="images/logos/logo3.png" style="float:left;width:202px;height:80px;margin-left: -270px"></img></li>
+								<li></li>
                                     <li><a href="index.html">Home</a></li>
                                     <li class="dropdown"><a href="#Mission">Mission & Vision</a>
                                     </li>
@@ -148,7 +149,8 @@
             <div class="row">
                 <div class="col-lg-6 text-end" style="background-color: #b41525">
                     <h2>OUR MISSION</h2>
-                    <span class="lead">RLS II Consulting, are dedicated to promoting the added value of diversity and the richness of inclusion in culturally competent communities and organizations as they seek to thrive and compete in a complex, interconnected and globalized world and highly cultured world. </span>
+                    <span class="lead">RLS II Consulting, are dedicated to promoting the added value of diversity and the richness of inclusion in culturally competent communities and organizations as they seek to thrive and compete in a complex, interconnected and highly globalized and cultured world.
+ </span>
                 </div>
 
                 <div class="col-lg-6 text-start" style="background-color: #c31e2f">
@@ -223,8 +225,9 @@
             <div class="container" id="Test">
                 <h2>What Our Clients Say</h2>
                 <span class="lead">We have delivered results time and time again.</span>
-                <p class="lead">“Dr. Stevenson was able to bridge that with them and have very fruitful and honest discussions about those issues. One of the most rewarding things out of this was to hear police officers talk about how rewarding their discussion was.” 
-				</br>-Curtis Holt</p>
+                <p class="lead">Curtis Holt, city of Wyoming manager., stated “In 2020, we had the opportunity to have a discussion with Dr. Stevenson. He hit the marks on the things we wanted to talk about. These aren’t really diversity, equity inclusion sessions as much as cultural competency sessions.”
+“At the time that he was here early on, there were a lot of things going on in the world with the different issues that police departments are facing. This was somewhat difficult to bring to the police department at that time. They felt like they were being attacked,” Holt says. “Dr. Stevenson was able to bridge that with them and have very fruitful and honest discussions about those issues. One of the most rewarding things out of this was to hear police officers talk about how rewarding their discussion"
+				</p>
 
                 <a href="https://www.rapidgrowthmedia.com/devnews/013122wyomingdei.aspx" class="btn btn-outline btn-light"><span>Learn More</span></a>
             </div>
@@ -263,7 +266,7 @@
                         <h3>Don't Hesitate! <strong>Call Now</strong> and we can get started!</h3>
                         <p>"It is important that those in leadership acknowledge that our country is frayed on all sides by racial, cultural and gender unrest. Therefore, the leaders should train and prepare their people for the inevitable,” Stevenson says. “That is a shift in the way our country looks and functions. Those who are aware and prepare will be successful with societal sustainability, those who don't will eventually become extinct." </p>
                     </div>
-                    <div class="col-lg-2"> <a class="btn btn-outline btn-light" href=”tel:2106362797“>Call us now!</a> </div>
+                    <div class="col-lg-2"> <a class="btn btn-outline btn-light" href=”tel:6167800749“>Call us now!</a> </div>
                 </div>
             </div>
         </div>
