@@ -6,7 +6,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="INSPIRO" />
     <meta name="description" content="Themeforest Template Polo, html template">
-    <link rel="icon" type="image/png" href="images/logos/logo.png">
+    <link rel="icon" type="image/png" href="images/logos/logo3.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Document title -->
     <title>RLS II Consulting</title>
@@ -82,21 +82,17 @@
                         <div class="container">
                             <nav>
                                 <ul>
-								<li><img src="images/logos/logo.png" style="float:left;width:202px;height:80px;margin-left: -270px"></img></li>
+								<li><img src="images/logos/logo3.png" style="float:left;width:202px;height:80px;margin-left: -270px"></img></li>
                                     <li><a href="index.html">Home</a></li>
                                     <li class="dropdown"><a href="#Mission">Mission & Vision</a>
                                     </li>
                                     <li class="dropdown"><a href="#Do">What We Do</a>
                                     </li>
-                                    <li class="dropdown mega-menu-item"><a href="#">Elements</a>
+                                    <li class="dropdown mega-menu-item"><a href="#Test">Testimonials</a>
                                     </li>
-                                    <li class="dropdown"><a href="#">Pages</a>
+                                    <li class="dropdown"><a href="#History">Company History</a>
                                     </li>
-                                    <li class="dropdown mega-menu-item"><a href="#">Portfolio</a>
-                                    </li>
-                                    <li class="dropdown mega-menu-item"><a href="#">Blog</a>
-                                    </li>
-                                    <li class="dropdown mega-menu-item"><a href="#">Shop</a>
+                                    <li class="dropdown mega-menu-item"><a href="#Contact">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -135,7 +131,7 @@
                         <span class="strong text-light">Welcome, We are</span>
                         <h2 class="text-light text-lg">RLS II Consulting</h2>
 
-                        <a class="btn btn-dark">Get in Touch</a>
+                        <a class="btn btn-dark" href="#Contact">Get in Touch</a>
                         <!-- end: Captions -->
                     </div>
                 </div>
@@ -175,7 +171,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="icon-box medium fancy">
-                            <div class="icon"> <a href="#"><i class="fa fa-car"></i></a> </div>
+                            <div class="icon"> <a href="#"><i class="fa fa-phone"></i></a> </div>
                             <h4>Listening</h4>
                             <p>Learning to listen to one another.</p>
                         </div>
@@ -197,21 +193,21 @@
 
                     <div class="col-lg-4">
                         <div class="icon-box medium fancy">
-                            <div class="icon"> <a href="#"><i class="fa fa-phone"></i></a> </div>
+                            <div class="icon"> <a href="#"><i class="fa fa-globe"></i></a> </div>
                             <h4>Worldview</h4>
                             <p>Be willing to learn even if it doesn’t make sense to your world view.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="icon-box medium fancy">
-                            <div class="icon"> <a href="#"><i class="fa fa-code"></i></a> </div>
+                            <div class="icon"> <a href="#"><i class="fa fa-flag"></i></a> </div>
                             <h4>Culture</h4>
                             <p>A person's culture informs their reality.</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="icon-box medium fancy">
-                            <div class="icon"> <a href="#"><i class="fa fa-life-ring"></i></a> </div>
+                            <div class="icon"> <a href="#"><i class="fa fa-star"></i></a> </div>
                             <h4>Understanding Differences</h4>
                             <p>Culture, race and ethnicity are not synonyms.</p>
                         </div>
@@ -221,163 +217,33 @@
         </section>
         <!-- END WHAT WE DO -->
         <!-- WHY CHOOSE US -->
-        <section>
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="heading-text heading-section m-b-60">
-                            <h2>WHAT CHOOSE US</h2>
-                        </div>
-                        <div class="accordion toggle fancy clean accordion-transparent">
-                            <div class="ac-item">
-                                <h5 class="ac-title">WORLDWIDE BUSINESS COMPANY</h5>
-                                <div class="ac-content" style="display: none;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</div>
-                            </div>
-                            <div class="ac-item">
-                                <h5 class="ac-title">IDENTIFY SMALL BUSINESS PAIN POINTS</h5>
-                                <div class="ac-content" style="display: none;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</div>
-                            </div>
-                            <div class="ac-item ac-active">
-                                <h5 class="ac-title">YOUR DATA ARE SECURE</h5>
-                                <div class="ac-content">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</div>
-                            </div>
-                            <div class="ac-item">
-                                <h5 class="ac-title">BETTER COMUNICATION</h5>
-                                <div class="ac-content" style="display: none;">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="heading-text heading-section">
-                            <h2>OUR SKILLS</h2>
-                        </div>
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="100" data-delay="100" data-type="%">
-                                <div class="progress-title">CONSULTING</div>
-                            </div>
-                        </div>
-
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="94" data-delay="200" data-type="%">
-                                <div class="progress-title">SUPPORT</div>
-                            </div>
-                        </div>
-
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="78" data-delay="300" data-type="%">
-                                <div class="progress-title">MANAGEMENT</div>
-                            </div>
-                        </div>
-
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="65" data-delay="400" data-type="%">
-                                <div class="progress-title">ECONOMY</div>
-                            </div>
-                        </div>
-
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="78" data-delay="300" data-type="%">
-                                <div class="progress-title">INVESTMENT</div>
-                            </div>
-                        </div>
-
-                        <div class="p-progress-bar-container title-up small color">
-                            <div class="p-progress-bar" data-percent="65" data-delay="400" data-type="%">
-                                <div class="progress-title">MANAGEMENT AGREEMENTS</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-            </div>
-
-        </section>
-        <!-- WHY CHOOSE US -->
 
         <!-- PARALLAX -->
-        <section class="text-center text-light p-t-150 p-b-150" data-bg-parallax="images/overlay-pattern/gplay.png">
-            <div class="container">
-                <h2>PARALLAX SECTION</h2>
-                <span class="lead">Beautiful nature, and rare feathers!. amam ipsum dolor sit amet.</span>
-                <p class="lead">We offer a range of services for both businesses and individuals companies, Beautiful nature, and rare feathers!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor.</p>
+        <section class="text-center text-light p-t-50 p-b-50" data-bg-parallax="images/parallax/_5.jpg">
+            <div class="container" id="Test">
+                <h2>What Our Clients Say</h2>
+                <span class="lead">We have delivered results time and time again.</span>
+                <p class="lead">“Dr. Stevenson was able to bridge that with them and have very fruitful and honest discussions about those issues. One of the most rewarding things out of this was to hear police officers talk about how rewarding their discussion was.” 
+				</br>-Curtis Holt</p>
 
-                <a href="#" class="btn btn-outline btn-light"><span>Learn More</span></a>
+                <a href="https://www.rapidgrowthmedia.com/devnews/013122wyomingdei.aspx" class="btn btn-outline btn-light"><span>Learn More</span></a>
             </div>
         </section>
         <!-- end: PARALLAX -->
-
-        <!-- CLIENTS -->
-        <section>
-            <div class="container">
-                <div class="heading-text heading-section text-center">
-                    <h2>OUR CLIENTS</h2>
-                    <span class="lead">Our awesome clients we've had the pleasure to work with! </span>
-                </div>
-
-                <ul class="grid grid-5-columns">
-                    <li>
-                        <a href="#"><img src="images/clients/1.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/2.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/3.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/4.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/5.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/6.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/7.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/8.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/9.png" alt="">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#"><img src="images/clients/10.png" alt="">
-                        </a>
-                    </li>
-                </ul>
-
-            </div>
-        </section>
-        <!-- CLIENTS -->
-
         <!-- HISTORY -->
         <section class="background-grey p-b-60">
-            <div class="container">
+            <div class="container" id="History">
                 <div class="heading-text heading-section text-center m-b-40">
                     <h2>COMPANY HISTORY</h2>
-                    <span class="lead">Beautiful nature, and rare feathers!. amam ipsum dolor sit amet.</span>
+                    <span class="lead">Promoting diversity and inclusion for our clients for years .</span>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="m-b-40">
 
 
-                            <span class="lead">The most happiest time of the day!. Morbi sagittis, sem quis lacinia faucibus, orci ipsum gravida tortor, vel interdum mi sapien ut justo. Nulla varius consequat magna, id molestie ipsum volutpat quis. A true story, that never been told!. Fusce id mi diam, non ornare orci. Pellentesque ipsum erat, facilisis ut venenatis eu, sodales vel dolor.
+                            <span class="lead">In fall 2020, the City of Wyoming enlisted Dr. Rik Stevenson to engage city staff, including police and fire departments, in cultural competency training. A lecturer in African American Studies at the University of Florida, Stevenson also has Grand Rapids roots. He once pastored a Christian Reformed church here and taught African American studies at Grand Valley State University and The Grand Rapids Theological Seminary.
+							As of January 2022, all but 10 of Wyoming’s employees have taken part — and those remaining are scheduled for future sessions. Sessions have also been extended to community members, with an emphasis on those who are active on the city’s boards and commissions.
                             </span>
                         </div>
                     </div>
@@ -404,7 +270,7 @@
         <!-- end: CALL TO ACTION -->
         <!-- Contact -->
         <section id=estimate class="p-t-100 p-b-80">
-            <div class="container">
+            <div class="container" id="Contact">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="row">
